@@ -17,7 +17,6 @@
 # Installing and Running
 
 #### To run this application on your local system, execute the following commands on your terminal/command line:
-#### `git clone` https://github.com/AFFAN-AHMAD/funny-week-7983
 #### `npm i`
 #### run the server
 #### create a .env file with username and password of mongodb
